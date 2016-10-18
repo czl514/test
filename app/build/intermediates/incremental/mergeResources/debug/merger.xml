@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndriodApplication\ActivityJump\app\src\main\res"><file name="activity_main" path="D:\AndriodApplication\ActivityJump\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="next_activity" path="D:\AndriodApplication\ActivityJump\app\src\main\res\layout\next_activity.xml" qualifiers="" type="layout"/><file name="next_next_activity" path="D:\AndriodApplication\ActivityJump\app\src\main\res\layout\next_next_activity.xml" qualifiers="" type="layout"/><file name="menu_main" path="D:\AndriodApplication\ActivityJump\app\src\main\res\menu\menu_main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="D:\AndriodApplication\ActivityJump\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi" type="mipmap"/><file name="ic_launcher" path="D:\AndriodApplication\ActivityJump\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi" type="mipmap"/><file name="ic_launcher" path="D:\AndriodApplication\ActivityJump\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="mipmap"/><file name="ic_launcher" path="D:\AndriodApplication\ActivityJump\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="mipmap"/><file path="D:\AndriodApplication\ActivityJump\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\AndriodApplication\ActivityJump\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="next_button">下一步</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="action_settings">Settings</string><string name="app_name">ActivityJump</string><string name="the_last_page">最后一页</string><string name="go_to_main_page">返回首页</string></file><file path="D:\AndriodApplication\ActivityJump\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style><style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style><style name="Theme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style></file><file path="D:\AndriodApplication\ActivityJump\app\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="AppTheme" parent="android:Theme.Material.Light">
+    </style></file><file path="D:\AndriodApplication\ActivityJump\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="D:\AndriodApplication\ActivityJump\app\build\generated\res\rs\debug"/><source path="D:\AndriodApplication\ActivityJump\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="D:\AndriodApplication\ActivityJump\app\src\debug\res"/></dataSet><mergedItems/></merger>
